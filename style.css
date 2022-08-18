@@ -1,0 +1,19 @@
+body{
+  background-position: center;
+  background-color: pink;
+  background-size: cover;
+}
+h1{
+    font-size:45px;
+  /*Pega aquí las reglas de la fuente "are you serious"*/
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    background-color: blueviolet;
+    color: deepskyblue;
+}
+#Canvis{
+  background-color: white;
+  border-style: ridge;
+  border-color: rgb(175, 237, 175);
+}
